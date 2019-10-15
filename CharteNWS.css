@@ -1,5 +1,13 @@
 h1
 {
+    color: red;
     text-align: center;
     margin-top: 0px;
+    }
+
+h3
+{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color: red;
     }

@@ -1,20 +1,34 @@
+body
+{
+    background-image: url("https://i.ibb.co/r78jdzj/Sans-titre-1.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    
+}
+
 h1
 {
     font-family:  'Trebuchet MS', Arial, sans-serif;
-    color: red;
+    color: rgb(0, 48, 136);
     text-align: center;
     margin-top: 0px;
+    font-size: 80px;
+    font-weight: bold;
     }
 
 h3
 {
     font-family:  'Trebuchet MS', Arial, sans-serif;
     text-decoration: underline;
-    text-decoration-color: red;
-    color: red;
+    text-decoration-color:rgb(0, 48, 136);
+    color: rgb(0, 48, 136);
+    font-size: 30px;
+
     }
 
 ul
 {
+    background-color: rgba(0, 53, 151, 0.418);
+    text-decoration: none;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
